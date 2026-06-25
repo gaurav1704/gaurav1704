@@ -1,119 +1,89 @@
-# Hi there 👋, I'm Gaurav Chaurasia
+# Hi there 👋 I'm Gaurav Chaurasia
 
-**Software Development Engineer** building large-scale backend systems, distributed infrastructure, and cloud-native platforms.
+**Software Development Engineer @ Juspay**
 
-Currently working on high-performance payment infrastructure, observability platforms, and developer tooling using **Rust**, **PostgreSQL**, **Kubernetes**, **AWS**, and **GCP**.
+I build **distributed systems**, **cloud-native infrastructure**, and **high-performance backend platforms** for large-scale payment systems.
 
----
-
-## About Me
-
-I'm a backend engineer with **6+ years of experience** designing and operating highly scalable systems in the fintech domain.
-
-My interests lie in building systems that are:
-
-* High Performance
-* Fault Tolerant
-* Observable
-* Developer Friendly
-* Production Ready
-
-I enjoy solving problems around distributed systems, databases, cloud infrastructure, and performance engineering.
+Currently interested in **Rust**, **PostgreSQL**, **Kubernetes**, **Cloud Infrastructure**, **Observability**, and **Performance Engineering**.
 
 ---
 
-## Highlights
+## 📈 Career Highlights
 
-* 🚀 Built backend services supporting **15K+ requests/sec**
+* 🚀 Built backend systems supporting **15K+ requests/sec**
 * 📊 Designed a ClickHouse ingestion platform processing **120K+ messages/sec**
-* 💳 Built reconciliation platform processing **4M+ payment transactions** in under 15 seconds
-* ☁️ Led migration of production services from on-premise infrastructure to AWS and GCP
-* 🔒 Built encryption and key-management capabilities for payment systems
+* 💳 Developed a reconciliation platform processing **4M+ payment transactions** in under **15 seconds**
+* ☁️ Led migration of production services from **on-premise infrastructure to AWS & GCP**
 * ⚡ Designed caching layers reducing API latency by up to **70%**
-* 📈 Built observability platforms using Prometheus, Grafana, OpenTelemetry and ELK
+* 🔒 Built encryption and key-management capabilities for payment systems
+* 🔁 Developed replay infrastructure for validating production traffic before deployments
+* 📡 Built observability platforms using **Prometheus**, **Grafana**, **OpenTelemetry**, and **ELK Stack**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-* Rust
-* Python
-* Haskell
-* Node.js
-* C++
-
-### Data Platforms
-
-* PostgreSQL
-* Redis
-* ClickHouse
-* Kafka
-* OpenSearch
-
-### Infrastructure
-
-* Kubernetes
-* Docker
-* AWS
-* GCP
-* Helm
-* Jenkins
-
-### Observability
-
-* Prometheus
-* Grafana
-* OpenTelemetry
-* ELK Stack
+| Category                | Technologies                                                                                              |
+| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Languages**           | Rust • Python • Haskell • Node.js • C++                                                                   |
+| **Databases & Storage** | PostgreSQL • Redis • ClickHouse • Kafka • OpenSearch                                                      |
+| **Cloud**               | AWS • GCP                                                                                                 |
+| **Infrastructure**      | Kubernetes • Docker • Helm • Jenkins • Git                                                                |
+| **Observability**       | Prometheus • Grafana • OpenTelemetry • ELK Stack                                                          |
+| **Expertise**           | Distributed Systems • Payment Infrastructure • Performance Engineering • Cloud Native • High Availability |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### rust-imc
+### 🛡️ pgb-iam
 
-A production-oriented in-memory caching library for Rust applications that helps reduce storage latency through configurable caching strategies.
-
----
-
-### pgb-iam
-
-A PostgreSQL connection pooler supporting native IAM authentication for AWS RDS and Google Cloud SQL with secure authentication and production-ready connection management.
+Production-ready PostgreSQL connection pooler supporting native **AWS RDS IAM** and **Google Cloud SQL IAM** authentication with secure connection management.
 
 ---
 
+### ⚡ rust-imc
 
-## Current Focus
+High-performance in-memory caching library for Rust applications with pluggable storage backends and production-oriented caching strategies.
 
-I'm currently exploring and building around:
+---
 
-* Distributed Systems
+### 🎮 WordSpell
+
+A real-time multiplayer word game built from scratch.
+
+Designed with multiplayer gameplay, room management, real-time synchronization, and game-state management while focusing on clean architecture and scalability.
+
+---
+
+## 🌱 Currently Exploring
+
+* Distributed Databases
 * Storage Engines
 * Query Processing
-* Cloud Native Infrastructure
+* Cloud Native Systems
 * PostgreSQL Internals
 * Rust Ecosystem
-* Performance Optimization
-* Observability
+* Developer Tooling
+* Platform Engineering
 
 ---
 
-## Open Source Goals
+## 🎯 2026 Goals
 
-I'm actively working on building production-grade open source projects around:
-
-* Distributed caching
-* Database tooling
-* Kubernetes
-* Observability
-* Cloud infrastructure
-* Developer experience
+* Build more production-grade open-source projects
+* Contribute to the Rust ecosystem
+* Deep dive into distributed storage systems
+* Explore database internals and query execution
+* Publish engineering blogs on system design and backend architecture
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/gaurav1704
-* Email: [gauravchaurasia1704@gmail.com](mailto:gauravchaurasia1704@gmail.com)
+* 💼 LinkedIn: **linkedin.com/in/gaurav1704**
+* 📧 Email: **[gauravchaurasia1704@gmail.com](mailto:gauravchaurasia1704@gmail.com)**
+
+---
+
+> *"I enjoy building systems that are simple to operate, easy to observe, and capable of handling production scale."*
