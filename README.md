@@ -84,11 +84,6 @@ A PostgreSQL connection pooler supporting native IAM authentication for AWS RDS 
 
 ---
 
-### diesel-tracing
-
-Telemetry middleware for Diesel ORM providing SQL tracing, metrics and structured logging through OpenTelemetry.
-
----
 
 ## Current Focus
 
